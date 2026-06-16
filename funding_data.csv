@@ -1,0 +1,10 @@
+company_name,company_name_en,round,amount,valuation,investors,funding_date,description
+OpenAI,OpenAI,战略融资,400亿美元,3000亿美元,SoftBank(领投400亿),2025-03,GPT系列大模型及AI Agent产品线开发商;旗下拥有GPT-4o、Operator等Agent产品
+OpenAI,OpenAI,战略融资,1100亿美元,8400亿美元(投后),Amazon(500亿)+Nvidia(300亿)+SoftBank(300亿),2026-02,全球最大AI公司;GPT系列大模型及Agent产品线开发商
+Anthropic,Anthropic,Series G,300亿美元,3800亿美元(投后),GIC+Coatue(联合领投);D.E. Shaw Ventures+Dragoneer+Founders Fund+ICONIQ+MGX(联合领投);Accel+BlackRock+Sequoia+Temasek等参投,2026-02,Claude大模型及AI Agent能力开发商;Claude Code已成为领先AI编程Agent
+Cognition AI,Cognition AI,Series C,4亿美元,102亿美元(投后),Founders Fund(领投);Lux Capital+8VC等跟投,2025-09,AI软件工程师Devin开发商;全球首个自主AI编程Agent
+Cognition AI,Cognition AI,Series D,10亿美元以上,260亿美元(投后),Lux Capital+General Catalyst+8VC(联合领投),2026-05,AI软件工程师Devin开发商;ARR达4.92亿美元;89%代码由AI自行编写
+CrewAI,CrewAI,Series A,1800万美元,7600万美元,boldstart ventures(种子轮领投);Firmhub联合创始人Dharmesh Shah;Insight Partners(Series A领投),2024-11,多Agent协作框架开发商;月执行超1000万Agent任务;服务财富500强企业
+月之暗面,Moonshot AI,C轮,5亿美元,43亿美元(投后),IDG(领投);阿里+腾讯等老股东超额认购,2025-12,Kimi智能助手开发商;中国领先AI对话及Agent产品公司
+月之暗面,Moonshot AI,D轮,7亿美元以上,100亿美元以上(投后),阿里巴巴+腾讯+五源资本+九安医疗等原有股东联合领投,2026-02,Kimi智能助手开发商;两轮累计融资超12亿美元;现金储备超100亿人民币
+智谱AI,Zhipu AI,B6-4轮(上市前最后一轮),约20亿人民币,约244亿人民币(投后),中关村科学城+大兴投资+杭州城创+华发集团等,2025-05,中国首家通用大模型上市公司(02513.HK);GLM系列大模型及Agent产品开发商
